@@ -1,0 +1,9 @@
+App/.ipynb_checkpoints
+App/energies/__pycache__/ProcessSQL.cpython-38.pyc
+App/energies/gaz/__pycache__/ProcessSQLGaz.cpython-38.pyc
+App/energies/gaz_elec/__pycache__/ProcessSQLGazElec.cpython-38.pyc
+App/energies/gaz_industriel/__pycache__/ProcessSQLGazIndustriel.cpython-38.pyc
+autre_traitement/
+App/energies/elec_day/__pycache__/ProcessSQLElecDay.cpython-38.pyc
+App/energies/elec_met/__pycache__/ProcessSQLElecMet.cpython-38.pyc
+../.Rhistory
